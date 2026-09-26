@@ -1,4 +1,4 @@
-## paper-dashboard
+## vue-paper-dashboard
 #intergration web application
 
 #Description of used application:
