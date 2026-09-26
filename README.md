@@ -1,7 +1,12 @@
 ## vue-paper-dashboard
-#intergration web application
 
-#Description of used application:
+# CI/CD
+
+This project uses GitHub Actions for continuous intergration. 
+
+Intergration web application
+
+Description of used application:
 
 > Admin dashboard based on paper dashboard UI template + vue-router
 
