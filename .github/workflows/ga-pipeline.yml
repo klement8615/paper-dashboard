@@ -1,4 +1,4 @@
-name: Application-Pipeline CI
+name: Paper Dashboard CI
 
 on:
   push:
